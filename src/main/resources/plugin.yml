@@ -1,0 +1,4 @@
+name: Click
+version: ${project.version}
+main: click.click.Click
+api-version: 1.16
